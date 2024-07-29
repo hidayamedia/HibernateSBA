@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HibernateJUnit_SBA">
+    <output-path>$PROJECT_DIR$/out/artifacts/HibernateJUnit_SBA</output-path>
+    <root id="archive" name="HibernateJUnit_SBA.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
